@@ -40,4 +40,4 @@
 * **Final Year Project**: Reduced-Precision Belief Propagation for Embedded Systems on PYNQ-Z2 board.
 
 ### Personal Website
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/aaishah-q-hi)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aaishah-q-hi)
