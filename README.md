@@ -1,23 +1,27 @@
 # Hi :3, I'm Aaishah 🦇
 
+<p align="left">
+  <img align="right" src="https://giphy.com" width="150" />
+</p>
+
 
 ###  BSc Computer Science graduate from Queen's University Belfast
 ---
 
 ### Skills & Technologies:
 
-#### Languages 
+**Languages**
 ![C++](https://shields.io)
 ![Python](https://shields.io)
 ![Java](https://shields.io)
 ![SQL](https://shields.io)
 
-#### Web Technologies
+**Web Technologies**
 ![JavaScript](https://shields.io)
 ![HTML](https://shields.io)
 ![CSS](https://shields.io)
 
-#### Networking & Infrastructure
+**Networking & Infrastructure**
 ![ArubaOS-CX](https://shields.io)
 ![Git](https://shields.io)
 
