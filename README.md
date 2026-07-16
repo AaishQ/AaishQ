@@ -1,6 +1,6 @@
 # Hi :3, I'm Aaishah 🦇
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJnNHJvbHQ4bXFyYWE1Z3hueTNmYTl2bHM4NGVwYWxkeHU2Y3lxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b8AIy2HJzPog8/giphy.gif
+[![Batman Silhouette](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJnNHJvbHQ4bXFyYWE1Z3hueTNmYTl2bHM4NGVwYWxkeHU2Y3lxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b8AIy2HJzPog8/giphy.gif)](#)
 
 ###  BSc Computer Science graduate from Queen's University Belfast
 ---
