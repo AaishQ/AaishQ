@@ -15,7 +15,7 @@
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-[![SQL](https://shields.io)](#)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1))](#)
 
 
 * **Web Technologies:**
@@ -29,7 +29,7 @@
 
 * **Networking & Infrastructure:**
 
-[![ArubaOS-CX](https://shields.io)
+[![ArubaOS-CX](https://shields.io)](#) 
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 
