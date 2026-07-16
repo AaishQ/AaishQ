@@ -15,7 +15,7 @@
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1))](#)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](#)
 
 
 * **Web Technologies:**
