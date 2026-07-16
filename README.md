@@ -1,6 +1,5 @@
 # Hi :3, I'm Aaishah 🦇
 
-<img align="right" src="https://giphy.com" width="160" />
 
 ###  BSc Computer Science graduate from Queen's University Belfast
 ---
@@ -36,3 +35,6 @@
 ### 🎓 Academics
 * **Final Year Project**: Reduced-Precision Belief Propagation for Embedded Systems on PYNQ-Z2 board.
 * **Core Domains**: Concurrent Programming, Embedded Systems, Networking Infra
+
+### Personal Website
+[![LinkedIn](https://shields.io)](https://linkedin.com)
