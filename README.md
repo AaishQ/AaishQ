@@ -23,15 +23,6 @@
 
 ---
 
-
-### GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="AaishQ's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="AaishQ's Top Languages" height="150" />
-</p>
----
-
 ### 🎓 Academics
 * **Final Year Project**: Reduced-Precision Belief Propagation for Embedded Systems on PYNQ-Z2 board.
 * **Core Domains**: Concurrent Programming, Embedded Systems, Networking Infra
