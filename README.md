@@ -1,6 +1,5 @@
 # Hi :3, I'm Aaishah 🦇
 
-<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/b8AIy2HJzPog8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/black-and-white-animated-bat-b8AIy2HJzPog8">via GIPHY</a></p> 
 
 
 ###  BSc Computer Science graduate from Queen's University Belfast
