@@ -13,9 +13,9 @@
 ![SQL](https://shields.io)
 
 #### Web Technologies
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
+![HTML](https://shields.io)
+![CSS](https://shields.io)
 
 #### Networking & Infrastructure
 ![ArubaOS-CX](https://shields.io)
@@ -25,7 +25,6 @@
 
 ### 🎓 Academics
 * **Final Year Project**: Reduced-Precision Belief Propagation for Embedded Systems on PYNQ-Z2 board.
-* **Core Domains**: Concurrent Programming, Embedded Systems, Networking Infra
 
 ### Personal Website
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/aaishah-q-hi)
