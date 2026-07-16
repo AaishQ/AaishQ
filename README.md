@@ -29,7 +29,8 @@
 
 * **Networking & Infrastructure:**
 
-[![ArubaOS-CX](https://shields.io)](#) 
+[![ArubaOS-CX](https://img.shields.io/badge/Aruba%20OS-CX?style=flat&color=%23CC5500
+)](#) 
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 
