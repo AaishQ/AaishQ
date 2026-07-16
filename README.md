@@ -1,11 +1,11 @@
 # Hi :3, I'm Aaishah 🦇
 
-<img align="right" src="https://giphy.com" width="180" />
+<img align="right" src="https://giphy.com" width="160" />
 
 ###  BSc Computer Science graduate from Queen's University Belfast
 ---
 
-### Skills & Technologies
+### Skills & Technologies:
 
 #### Languages 
 ![C++](https://shields.io)
@@ -24,11 +24,13 @@
 
 ---
 
+
+### GitHub Analytics
+
 <p align="left">
   <img src="https://vercel.app" alt="AaishQ's GitHub Stats" height="150" />
   <img src="https://vercel.app" alt="AaishQ's Top Languages" height="150" />
 </p>
-
 ---
 
 ### 🎓 Academics
