@@ -1,8 +1,6 @@
 # Hi :3, I'm Aaishah 🦇
 
-<p align="left">
-  <img align="right" src="  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJnNHJvbHQ4bXFyYWE1Z3hueTNmYTl2bHM4NGVwYWxkeHU2Y3lxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b8AIy2HJzPog8/giphy.gif" width="150" />" width="150" />
-</p>
+<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/b8AIy2HJzPog8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/black-and-white-animated-bat-b8AIy2HJzPog8">via GIPHY</a></p> 
 
 
 ###  BSc Computer Science graduate from Queen's University Belfast
@@ -18,7 +16,7 @@
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
-[![SQL]([https://shields.io](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white))](#)
+[![SQL](https://shields.io)](#)
 
 
 * **Web Technologies:**
